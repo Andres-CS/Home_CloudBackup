@@ -1,0 +1,6 @@
+{
+    "watchdog":{
+        "source":"C:/Users/{}/Desktop/Homes/Source",
+        "target":"C:/Users/{}/Desktop/Homes/Target"
+    }
+}
